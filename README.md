@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-- N/A
+- https://mbonabucya.github.io/awesome-book-es6/
 
 
 ## Getting Started
