@@ -28,7 +28,7 @@ To get a local copy for this project and running follow these simple steps.
 
 ### Setup
 
-- To clone the repository run this command ``
+- To clone the repository run this command `git clone https://github.com/mbonabucya/awesome-book-es6.git`
 
 ## Test
 
@@ -57,7 +57,7 @@ For tracking linter errors locally you need to follow these steps:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/mbonabucya/awesome-book-es6/issues).
 
 ## Show your support
 
@@ -65,4 +65,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [LICENSE](./LICENSE) licensed.
