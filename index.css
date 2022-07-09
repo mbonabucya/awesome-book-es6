@@ -144,11 +144,11 @@ nav .is-Active {
 
 #contact-info p,
 #contact-info ul {
-  text-align: left;
+  text-align: center;
 }
 
 #contact-info li {
-  list-style: disc;
+  list-style: none;
 }
 
 footer {
@@ -186,10 +186,6 @@ nav i {
 
 #contact-info {
   color: var(--bg);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 #awesome {
